@@ -1,0 +1,6 @@
+Flask==2.0.1
+flask_cors
+pyspark
+pandas
+nltk
+pip

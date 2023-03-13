@@ -1,0 +1,8 @@
+---
+applications:
+- name: HealthCheck
+  random-route: true
+  path: ./
+  memory: 3G
+  buildpack: python_buildpack
+  command: python modelFinalV31.py

@@ -1,0 +1,45 @@
+Delayed business object processing instance not processed
+
+ 
+
+ 
+
+This incident has been created automatically by a ByD System. Since the Customer is not involved,
+
+the incident has to be solved internally by Service Provider/Support/Development to avoid negative
+
+impact for the customer business.
+
+ 
+
+Diagnostic Information
+
+ 
+
+Health Check Component: Supplier Relationship Management
+
+Health Check Name: Delayed BO instance processing
+
+ 
+
+ 
+
+Error Information
+
+ 
+
+Affected node IDs:
+
+Responsible program AKH component: AP-XPS-DLP
+
+Node ID: FA163E7503A11EEDA2915CCA72231CE7
+
+Node ID: FA163EB0CD211EDDA2915A10F2B68308
+
+Node ID: FA163EB0CD211EDDA2915B783DD94355
+
+Node ID: FA163EB0CD211EDDA2915FCABBE963E5
+
+Node ID: FA163EB0CD211EDDA29161294E1C43E7
+
+ 

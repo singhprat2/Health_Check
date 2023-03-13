@@ -1,0 +1,22 @@
+Receiver interface name: InboundDeliveryProcessingDeliveryNotificationIn
+Receiver interface namespace: http://sap.com/xi/AP/LogisticsExecution/Global
+Receiver interface operation: MaintainInboundDelivery   
+Sender interface name: OutboundDeliveryProcessingDeliveryNotificationOut 
+Sender interface namespace: http://sap.com/xi/AP/LogisticsExecution/Global 
+Sender interface operation: NotifyOfOutboundDelivery 
+Sender party: OutboundDeliveryProcessing  
+Error Log Information: 
+ABAP Name of Consumer or Server Proxy: II_APDL_IDE_PROC_DEL_NOTI_IN 
+Application Area: AP_PAF_HELPER_TOOLS 
+Application component ID: AP-ODP  
+Error Short Text: Beim Sicherungsvorgang ist ein Fehler aufgetreten 
+Error Subcategory: 
+Expiry Date: 2022-04-28 
+Message number: 000 
+Message Area: AP_PAF_HELPER_TOOLS 
+Name of Class or Program: CL_SPAF_INB_PROXY_ADAPTER=====CP 
+Name of Method or Function Module: CL_SPAF_INB_PROXY_ADAPTER=====CM004 
+Package: AP_DP_DELDESADVNOTIF_PRX 
+Program/Method/Function Module: P 
+Remote IP Address: 
+Source Line Number: 150
